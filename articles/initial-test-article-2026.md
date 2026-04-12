@@ -9,7 +9,6 @@ published: true
 # はじめに
 
 Zenn CLIからテスト投稿
-今回は
 
 - Hello!
 - Hello!
