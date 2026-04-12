@@ -3,7 +3,7 @@ title: "ZennCLIからテスト投稿"
 emoji: "🔥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [vscode]
-published: false
+published: true
 ---
 
 # はじめに
