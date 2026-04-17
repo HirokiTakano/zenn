@@ -3,7 +3,7 @@ title: "WindowsとMacの違いをざっくり比較する"
 emoji: "🖥️"
 type: "tech"
 topics: [windows, mac, os, comparison]
-published: true
+published: false
 ---
 
 ## はじめに

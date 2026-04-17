@@ -334,10 +334,10 @@ npx zenn preview
 
 # 11. GitHub に push して Zenn に公開する
 
-記事が書けたら、`published: true` に変更します。
+記事が書けたら、`published: false` に変更します。
 
 ```yaml
-published: true
+published: false
 ```
 
 あとは以下のコマンドで GitHub に push するだけです。
