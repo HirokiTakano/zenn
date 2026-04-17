@@ -3,7 +3,7 @@ title: "VSCode + WSL + GitHub + Zennで記事投稿環境を整える"
 emoji: "📝"
 type: "tech"
 topics: [vscode, wsl, github, zenn, windows]
-published: true
+published: false
 ---
 
 # はじめに
