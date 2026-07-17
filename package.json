@@ -1,7 +1,7 @@
 {
   "name": "zenn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Zenn執筆",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,14 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "zenn-cli": "^0.4.7"
-  }
+    "zenn-cli": "^0.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HirokiTakano/zenn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HirokiTakano/zenn/issues"
+  },
+  "homepage": "https://github.com/HirokiTakano/zenn#readme"
 }
