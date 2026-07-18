@@ -3,7 +3,7 @@ title: "はじめまして｜インフラエンジニアとしてZennを始め�
 emoji: "👋"
 type: "idea"
 topics: ["自己紹介", "インフラ", "linux", "ses"]
-published: false
+published: true
 ---
 
 ## はじめに
